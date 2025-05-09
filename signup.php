@@ -21,7 +21,7 @@
       <div class="auth-link">
         <p>Sudah memilik akun? <a href="login.php">Masuk</a></p>
       </div>
-      <form id="signupForm" action="auth/proses-signup.php" method="POST">
+      <form id="signupForm" action="proses-signup.php" method="POST">
         <div class="form-group">
           <i class="fa-solid fa-envelope" id="ic"></i>
           <input type="text" id="email" name="email" placeholder="" required />
