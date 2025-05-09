@@ -29,7 +29,7 @@
       <div class="auth-link">
         <p>Tidak punya akun? <a href="signup.php">Daftar</a></p>
       </div>
-        <form id="loginForm" action="auth/proses-login.php" method="POST">
+        <form id="loginForm" action="proses-login.php" method="POST">
         <div class="form-group">
           <i class="fa-solid fa-user" id="ic"></i>
           <input type="text" id="username" name="username" required />
